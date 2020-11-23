@@ -1,10 +1,3 @@
-//
-//  SwiftUI_WeatherApp.swift
-//  SwiftUI-Weather
-//
-//  Created by Dani Kilders on 23.11.20.
-//
-
 import SwiftUI
 
 @main
