@@ -11,6 +11,7 @@
 		3373EC13256BFF2A000B9C70 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3373EC12256BFF2A000B9C70 /* ContentView.swift */; };
 		3373EC15256BFF2D000B9C70 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3373EC14256BFF2D000B9C70 /* Assets.xcassets */; };
 		3373EC18256BFF2D000B9C70 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3373EC17256BFF2D000B9C70 /* Preview Assets.xcassets */; };
+		3373EC21256C790C000B9C70 /* WeatherButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3373EC20256C790C000B9C70 /* WeatherButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		3373EC14256BFF2D000B9C70 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3373EC17256BFF2D000B9C70 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3373EC19256BFF2D000B9C70 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3373EC20256C790C000B9C70 /* WeatherButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				3373EC10256BFF2A000B9C70 /* SwiftUI_WeatherApp.swift */,
 				3373EC12256BFF2A000B9C70 /* ContentView.swift */,
+				3373EC20256C790C000B9C70 /* WeatherButton.swift */,
 				3373EC14256BFF2D000B9C70 /* Assets.xcassets */,
 				3373EC19256BFF2D000B9C70 /* Info.plist */,
 				3373EC16256BFF2D000B9C70 /* Preview Content */,
@@ -140,6 +143,7 @@
 			files = (
 				3373EC13256BFF2A000B9C70 /* ContentView.swift in Sources */,
 				3373EC11256BFF2A000B9C70 /* SwiftUI_WeatherApp.swift in Sources */,
+				3373EC21256C790C000B9C70 /* WeatherButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
